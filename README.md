@@ -70,7 +70,7 @@ npm run dev
 
 Vous devriez voir :
 ```
-✅  Serveur démarré sur http://localhost:3000
+  Serveur démarré sur http://localhost:3000
    → API disponible sur http://localhost:3000/api
    → Frontend sur      http://localhost:3000
 ```
